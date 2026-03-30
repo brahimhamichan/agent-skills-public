@@ -1,0 +1,7 @@
+interface:
+  display_name: "Instantly AI"
+  short_description: "Latest Instantly API v2 integration guide"
+  default_prompt: "Use $instantly-ai to implement or review an Instantly.ai API v2 integration securely."
+
+policy:
+  allow_implicit_invocation: true
